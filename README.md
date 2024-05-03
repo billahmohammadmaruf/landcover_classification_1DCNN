@@ -1,0 +1,1 @@
+# landcover_classification_1DCNN
